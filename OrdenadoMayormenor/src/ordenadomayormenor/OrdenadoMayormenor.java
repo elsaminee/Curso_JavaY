@@ -49,7 +49,7 @@ public class OrdenadoMayormenor {
                         } else{
                             
                             if (num3>=num2 && num2>=num1) {
-                                System.out.println("El orden es: " + num3+ ", "+ num2+" 3y " +num1);
+                                System.out.println("El orden es: " + num3+ ", "+ num2+" y " +num1);
                                 
                             }
                         }
