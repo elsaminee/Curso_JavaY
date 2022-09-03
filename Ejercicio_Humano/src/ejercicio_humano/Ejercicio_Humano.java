@@ -5,7 +5,7 @@
 package ejercicio_humano;
 
 
-import java.lang.Math;
+
 import java.util.Scanner;
       
 
